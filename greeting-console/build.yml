@@ -9,7 +9,7 @@ spec:
   source:
     type: Git
     git:
-      uri: 'https://github.com/YOUR_GITHUB_USER/do400-greeting-console'
+      uri: 'https://github.com/hafedhmhammdi/DO400-apps/tree/main/greeting-console'
       ref: main
   output:
     to:
